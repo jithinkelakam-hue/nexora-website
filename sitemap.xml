@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace REPLACE_WITH_YOUR_URL below once you know your Cloudflare Pages URL or custom domain. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://REPLACE_WITH_YOUR_URL/index.html</loc></url>
+  <url><loc>https://REPLACE_WITH_YOUR_URL/about.html</loc></url>
+  <url><loc>https://REPLACE_WITH_YOUR_URL/services.html</loc></url>
+  <url><loc>https://REPLACE_WITH_YOUR_URL/industries.html</loc></url>
+  <url><loc>https://REPLACE_WITH_YOUR_URL/contact.html</loc></url>
+</urlset>
